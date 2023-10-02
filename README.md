@@ -50,9 +50,8 @@ Using a programming-specific text editor makes it easy to write code acurately w
 
 #### Resources for Python
 1) [Python Tutorial](https://github.com/Akuli/python-tutorial)
-2) [Project Rosalind](https://rosalind.info/problems/locations/) learn bioinformatics through free problem solving
-3) [Project Euler](https://projecteuler.net/) free mathematical / computer programming problems
-4) [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+2) [Project Euler](https://projecteuler.net/) free mathematical / computer programming problems
+3) [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 
 #### Resources for bash
 1) Shell scripting [basic commands](https://notearena.com/course/linux/)
@@ -63,4 +62,6 @@ Using a programming-specific text editor makes it easy to write code acurately w
 #### Resources for bioinformatics
 1) bedtools [sandbox](https://sandbox.bio/tutorials?id=bedtools-intro)
 2) [Analyzing RNA-seq data with DEseq2](https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html)
+3) UCSD Bioinformatic Club [Introduction to Bioinformatics](https://www.bioinformaticscrashcourse.com/1_Welcome.html)
+4) [Project Rosalind](https://rosalind.info/problems/locations/) learn python and bioinformatics through free problems
 
