@@ -58,6 +58,7 @@ Using a programming-specific text editor makes it easy to write code acurately w
 2) Command line [Crash Course](https://learnpythonthehardway.org/python3/appendixa.html)
 3) A basic unix [tutorial](https://fsl.fmrib.ox.ac.uk/fslcourse/unix_intro/index.html)
 4) Unix [tutorial](http://www.ee.surrey.ac.uk/Teaching/Unix/) for beginners
+5) [BashVenture](https://github.com/apetro/BashVenture) a text-based game
 
 #### Resources for bioinformatics
 1) bedtools [sandbox](https://sandbox.bio/tutorials?id=bedtools-intro)
