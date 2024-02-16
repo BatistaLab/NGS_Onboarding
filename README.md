@@ -12,7 +12,7 @@ This respository is designed to help new lab members with on-boarding tasks for 
 We recognize that everyone comes to our lab with different levels of coding experience. To help everyone learn, we've compiled a list of our favorite resources. This list is not meant to be exhaustive, but let us know if you have a favorite resource we can add or if one of the links is broken. 
 
 #### Programming-specific text editors
-Using a programming-specific text editor makes it easy to write code acurately without formatting issues. Here are a few text editors that members of our lab use. Try a few and select the one that you like. Importantly--**DON'T USE WORD OR GOOGLE DOCS TO WRITE CODE**
+Using a programming-specific text editor makes it easy to write code accurately without formatting issues. Here are a few text editors that members of our lab use. Try a few and select the one that you like. Importantly--**DON'T USE WORD OR GOOGLE DOCS TO WRITE CODE**
 * [Komodo Edit](https://www.activestate.com/products/komodo-edit/)
 * [Notepad++](https://notepad-plus-plus.org/)
 * [BBEdit](https://www.barebones.com/products/bbedit/)
